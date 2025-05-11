@@ -49,6 +49,7 @@ bank = Bank("Python Bank")
 
 customer1 = Customer("Ram", 18, 100)
 customer2 = Customer("Hanuman", 16, 102)
+customer2 = Customer("Luffy", 17, 105)
 
 bank.add_customer(customer1)
 bank.add_customer(customer2)
